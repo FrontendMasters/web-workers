@@ -1,0 +1,7 @@
+{
+	"name": "web-workers",
+	"main": "server.js",
+	"dependencies": {
+		"node-static-alias": "~1.1.2"
+	}
+}
